@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="provider" class="org.example.xml.ConfigurableMessageProvider">
+        <constructor-arg type="java.lang.String" value="I hope that someone gets my message in a bottle"/>
+    </bean>
+
+    <bean id="constructorConfusion" class="org.example.xml.ConstructorConfusion">
+        <constructor-arg type="int">
+            <value>90</value>
+        </constructor-arg>
+    </bean>
+</beans>

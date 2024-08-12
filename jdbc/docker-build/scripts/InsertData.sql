@@ -1,0 +1,12 @@
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Doe', 'John', 'john.doe@foo.com', 'HR', 55000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Public', 'Mary', 'mary.public@foo.com', 'Engineering', 75000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Queue', 'Susan', 'susan.queue@foo.com', 'Legal', 130000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Williams', 'David', 'david.williams@foo.com', 'HR', 120000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Johnson', 'Lisa', 'lisa.johnson@foo.com', 'Engineering', 50000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Smith', 'Paul', 'paul.smith@foo.com', 'Legal', 100000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Adams', 'Carl', 'carl.adams@foo.com', 'HR', 50000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Brown', 'Bill', 'bill.brown@foo.com', 'Engineering', 50000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Thomas', 'Susan', 'susan.thomas@foo.com', 'Legal', 80000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Davis', 'John', 'john.davis@foo.com', 'HR', 45000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Fowler', 'Mary', 'mary.fowler@foo.com', 'Engineering', 65000.00);
+insert into EMPLOYEES (LAST_NAME, FIRST_NAME, EMAIL, DEPARTMENT, SALARY) values ('Waters', 'David', 'david.waters@foo.com', 'Legal', 90000.00);
